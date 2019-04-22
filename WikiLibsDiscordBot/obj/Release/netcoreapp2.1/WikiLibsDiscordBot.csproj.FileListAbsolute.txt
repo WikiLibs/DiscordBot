@@ -1,0 +1,14 @@
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\bin\Release\netcoreapp2.1\WikiLibsDiscordBot.deps.json
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\bin\Release\netcoreapp2.1\WikiLibsDiscordBot.runtimeconfig.json
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\bin\Release\netcoreapp2.1\WikiLibsDiscordBot.runtimeconfig.dev.json
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\bin\Release\netcoreapp2.1\WikiLibsDiscordBot.dll
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\bin\Release\netcoreapp2.1\WikiLibsDiscordBot.pdb
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\obj\Release\netcoreapp2.1\WikiLibsDiscordBot.csprojAssemblyReference.cache
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\obj\Release\netcoreapp2.1\WikiLibsDiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\obj\Release\netcoreapp2.1\WikiLibsDiscordBot.RazorAssemblyInfo.cache
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\obj\Release\netcoreapp2.1\WikiLibsDiscordBot.RazorAssemblyInfo.cs
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\obj\Release\netcoreapp2.1\WikiLibsDiscordBot.AssemblyInfoInputs.cache
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\obj\Release\netcoreapp2.1\WikiLibsDiscordBot.AssemblyInfo.cs
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\obj\Release\netcoreapp2.1\WikiLibsDiscordBot.RazorTargetAssemblyInfo.cache
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\obj\Release\netcoreapp2.1\WikiLibsDiscordBot.dll
+C:\Users\Yuri Edward\WikiLibs\DiscordBot\WikiLibsDiscordBot\obj\Release\netcoreapp2.1\WikiLibsDiscordBot.pdb

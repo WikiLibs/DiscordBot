@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WikiLibsDiscordBot", "WikiLibsDiscordBot\WikiLibsDiscordBot.csproj", "{9B804077-5C56-4BF0-9D45-EC88D36D727E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikiLibsDiscordBot.Test", "WikiLibsDiscordBot.Test\WikiLibsDiscordBot.Test.csproj", "{62238E39-14AA-45F6-87A9-23DEB00EF660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B804077-5C56-4BF0-9D45-EC88D36D727E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B804077-5C56-4BF0-9D45-EC88D36D727E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B804077-5C56-4BF0-9D45-EC88D36D727E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B804077-5C56-4BF0-9D45-EC88D36D727E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62238E39-14AA-45F6-87A9-23DEB00EF660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62238E39-14AA-45F6-87A9-23DEB00EF660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62238E39-14AA-45F6-87A9-23DEB00EF660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62238E39-14AA-45F6-87A9-23DEB00EF660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FEEC711-5305-40F3-B776-F00289B0B912}
+	EndGlobalSection
+EndGlobal
